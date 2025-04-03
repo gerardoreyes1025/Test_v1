@@ -1,0 +1,23 @@
+📋 Requisitos del Sistema
+
+    Sistema Operativo: Windows 10/11, Linux o macOS
+
+    Memoria RAM: Mínimo 8GB (recomendado 16GB+ para mejor rendimiento)
+
+    Espacio en disco: 15GB libres (para datos y entorno)
+
+🔧 Instalación de Dependencias
+1. Instalar Java JDK (Adoptium/Temurin)
+
+Variables de entorno esenciales (ajustar en tu sistema):
+
+JAVA_HOME=C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot
+
+2. Dependencias
+pyspark==3.5.0
+pandas==2.2.1
+pyarrow==14.0.2
+findspark==2.0.1
+numpy==1.26.4
+
+pip install -r requirements.txt

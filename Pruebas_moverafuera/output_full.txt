@@ -1,0 +1,2 @@
+documento|paterno|materno|nombres|nacimiento|edad|ubigeo|ubicacion|direccion|sexo|estado|sueldo|credito|madre|padre|departamento|provincia|distrito|telefono|patmatnom|caducidad|cui|emision|estatura|inscripcion|instruccion|restriccion
+22502321|NIEVES|VELA|CARLOS ENRIQUE|1972-08-08|51|90101|HUANUCO-HUANUCO-HUANUCO|JR.DOS DE MAYO 1594|1|SOLTERO|1905|100|LAURA|ABRAHAM|HUANUCO|HUANUCO|HUANUCO|962591216-966543446-936693689-16612812-957205835-989182075-914791013-923089663-961337612-947005066-948920980|NIEVES VELA CARLOS ENRIQUE|||||||

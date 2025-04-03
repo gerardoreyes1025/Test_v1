@@ -1,0 +1,75 @@
+📊 Total de filas en el dataset: 31,888,852
+
+🔽 3 Documentos MÁS PEQUEÑOS:
++------------------+
+|documento_completo|
++------------------+
+|00000001          |
+|00000002          |
+|00000003          |
++------------------+
+
+
+🔼 3 Documentos MÁS GRANDES:
++------------------+
+|documento_completo|
++------------------+
+|90708283          |
+|90708282          |
+|90708281          |
++------------------+
+
+
+🔍 Resumen estadístico del campo 'documento':
++--------+--------+
+|longitud|   count|
++--------+--------+
+|       8|31888852|
++--------+--------+
+
+==================================================
+ 📊 ANÁLISIS DE EDADES EXTREMAS (VALIDADO)
+==================================================
+
+👶 3 PERSONAS MÁS JÓVENES (edad mínima válida):
++---------+-------+----------+------------------+-----------+-----------------+
+|documento|paterno|materno   |nombres           |edad_valida|nacimiento_valido|
++---------+-------+----------+------------------+-----------+-----------------+
+|90662209 |TUERO  |SILVA     |VALENTINA KHALEESI|5          |2018-02-16       |
+|90588947 |SANCHEZ|CERVERA   |KIARA NICOL       |5          |2018-01-18       |
+|90662286 |MUÑANTE|ARANGOITIA|NICOLE ARACELI    |5          |2018-02-24       |
++---------+-------+----------+------------------+-----------+-----------------+
+
+
+🧓 3 PERSONAS MÁS MAYORES (edad máxima válida):
++---------+---------+-------+--------------+-----------+-----------------+
+|documento|paterno  |materno|nombres       |edad_valida|nacimiento_valido|
++---------+---------+-------+--------------+-----------+-----------------+
+|02404773 |LOPEZ    |ALFARO |PEDRO PABLO   |143        |1880-06-29       |
+|17803754 |CORBERA  |ALIAGA |ANGEL CUSTODIO|143        |1880-10-26       |
+|00480710 |BENAVIDES|CARRERO|ZENOBIA       |143        |1880-05-15       |
++---------+---------+-------+--------------+-----------+-----------------+
+
+
+==================================================
+ 🎂 ANÁLISIS DE FECHAS DE NACIMIENTO (VALIDADO)
+==================================================
+
+🕰️ 3 FECHAS DE NACIMIENTO MÁS ANTIGUAS (válidas):
++---------+---------+-------+--------------+-----------------+---------+
+|documento|paterno  |materno|nombres       |nacimiento_valido|edad_real|
++---------+---------+-------+--------------+-----------------+---------+
+|00480710 |BENAVIDES|CARRERO|ZENOBIA       |1880-05-15       |145      |
+|02404773 |LOPEZ    |ALFARO |PEDRO PABLO   |1880-06-29       |145      |
+|17803754 |CORBERA  |ALIAGA |ANGEL CUSTODIO|1880-10-26       |145      |
++---------+---------+-------+--------------+-----------------+---------+
+
+
+👶 3 FECHAS DE NACIMIENTO MÁS RECIENTES (válidas):
++---------+--------+----------+------------------+-----------------+---------+
+|documento|paterno |materno   |nombres           |nacimiento_valido|edad_real|
++---------+--------+----------+------------------+-----------------+---------+
+|90707266 |CHAVEZ  |URQUIA    |LUCIANITA         |2018-04-04       |7        |
+|90707256 |PEREZ   |QUISPE    |SHADIA CARMEN ROSA|2018-04-04       |7        |
+|90707241 |UCULMANA|VILLACORTA|GIA ARIANNA       |2018-04-04       |7        |
++---------+--------+----------+------------------+-----------------+---------+
