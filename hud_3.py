@@ -211,6 +211,7 @@ class RENIECApp:
             self.master.update()
             
             self.df = self.spark.read.csv(
+                #Aca traemos el csv
                 "../RENIEC10GB_CSV.csv",
                 sep=";",
                 header=True,
